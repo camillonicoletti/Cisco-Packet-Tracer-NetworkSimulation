@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Cisco Packet Tracer backup/temp files
+*.pkt~
+*.pka~
+*.pkz~
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
