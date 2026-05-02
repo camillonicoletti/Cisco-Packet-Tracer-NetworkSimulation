@@ -24,7 +24,7 @@ The goal of the simulation is to show how multiple private networks can communic
 
 ## Repository Structure
 
-
+```text
 Cisco-Packet-Tracer-NetworkSimulation/
 ├── README.md
 ├── packet-tracer/
@@ -33,6 +33,7 @@ Cisco-Packet-Tracer-NetworkSimulation/
 │   └── IOS-command-log.txt
 └── assets/
     └── house-background.png
+```
 
 
 ## Files Description
